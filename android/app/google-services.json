@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482599060127",
+    "project_id": "react-native-da4c7",
+    "storage_bucket": "react-native-da4c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482599060127:android:4be8fe65c88ed34f2b18aa",
+        "android_client_info": {
+          "package_name": "com.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482599060127-v52745f2hju013puac1ustja1e5359ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnZg0X-I6HhK95nAneQxK8hFCnlm8pnT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482599060127-v52745f2hju013puac1ustja1e5359ph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
